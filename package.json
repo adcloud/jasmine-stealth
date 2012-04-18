@@ -6,9 +6,6 @@
     "jasmine",
     "bdd"
   ],
-  "dependencies": {
-    "https://github.com/pivotal/jasmine": "Any"
-  },
   "bugs": {
     "web": "https://github.com/searls/jasmine-stealth/issues"
   },
