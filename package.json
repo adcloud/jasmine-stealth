@@ -9,6 +9,7 @@
   "bugs": {
     "web": "https://github.com/searls/jasmine-stealth/issues"
   },
+  "main": "dist/jasmine-stealth.js",
   "repositories": [
     {
       "type": "git",
